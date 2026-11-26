@@ -1,0 +1,94 @@
+{
+  "casp_uk": {
+    "case-control-study-checklist": {
+      "file": "case-control-study-checklist.pdf",
+      "bytes": 359654,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-case-control-study-October%202026.pdf"
+    },
+    "clinical-prediction-rule-checklist": {
+      "file": "clinical-prediction-rule-checklist.pdf",
+      "bytes": 279252,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-clinical-prediction-rule-2024.pdf"
+    },
+    "cohort-study-checklist": {
+      "file": "cohort-study-checklist.pdf",
+      "bytes": 279819,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-cohort-study-2024.pdf"
+    },
+    "cross-sectional-studies-checklist": {
+      "file": "cross-sectional-studies-checklist.pdf",
+      "bytes": 274042,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-cross-sectional-study-2024.pdf"
+    },
+    "diagnostic-study-checklist": {
+      "file": "diagnostic-study-checklist.pdf",
+      "bytes": 269055,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-diagnostic-test-2024.pdf"
+    },
+    "economic-evaluation-checklist": {
+      "file": "economic-evaluation-checklist.pdf",
+      "bytes": 271657,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-economic-evaluation-2024.pdf"
+    },
+    "qualitative-studies-checklist": {
+      "file": "qualitative-studies-checklist.pdf",
+      "bytes": 277059,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-qualitative-2024.pdf"
+    },
+    "randomised-controlled-trial-rct-checklist": {
+      "file": "randomised-controlled-trial-rct-checklist.pdf",
+      "bytes": 280441,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-randomised-controlled-trials-RCT-2024.pdf"
+    },
+    "systematic-review-checklist": {
+      "file": "systematic-review-checklist.pdf",
+      "bytes": 379284,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-systematic-reviews-checklist-2024.pdf"
+    },
+    "systematic-reviews-meta-analysis-observational-studies": {
+      "file": "systematic-reviews-meta-analysis-observational-studies.pdf",
+      "bytes": 390866,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-systematic-reviews-observational-studies-checklist-2024.pdf"
+    },
+    "systematic-reviews-meta-analysis-rcts": {
+      "file": "systematic-reviews-meta-analysis-rcts.pdf",
+      "bytes": 389198,
+      "source_url": "https://casp-uk.net/casp-checklists/CASP-checklist-systematic-reviews-meta-analysis-rct-checklist-2024.pdf"
+    }
+  },
+  "nih_nhlbi": {
+    "nih-before-after-pre-post": {
+      "title": "Quality Assessment Tool for Before-After (Pre-Post) Studies With No Control Group",
+      "file": "nih-before-after-pre-post.pdf",
+      "items": [
+        "1. Was the study question or objective clearly stated?",
+        "2. Were eligibility/selection criteria for the study population prespecified and clearly described?",
+        "3. Were the participants in the study representative of those who would be eligible for the test/service/intervention in the general or clinical population of interest?",
+        "4. Were all eligible participants that met the prespecified entry criteria enrolled?",
+        "5. Was the sample size sufficiently large to provide confidence in the findings?",
+        "6. Was the test/service/intervention clearly described and delivered consistently across the study population?",
+        "7. Were the outcome measures prespecified, clearly defined, valid, reliable, and assessed consistently across all study participants?",
+        "8. Were the people assessing the outcomes blinded to the participants' exposures/interventions?",
+        "9. Was the loss to follow-up after baseline 20% or less? Were those lost to follow-up accounted for in the analysis?",
+        "10. Did the statistical methods examine changes in outcome measures from before to after the intervention? Were statistical tests done that provided p values for the pre-to-post changes?",
+        "11. Were outcome measures of interest taken multiple times before the intervention and multiple times after the intervention (i.e., did they use an interrupted time-series design)?",
+        "12. If the intervention was conducted at a group level (e.g., a whole hospital, a community, etc.) did the statistical analysis take into account the use of individual-level data to determine effects at the group level?"
+      ]
+    },
+    "nih-case-series": {
+      "title": "Quality Assessment Tool for Case Series Studies",
+      "file": "nih-case-series.pdf",
+      "items": [
+        "1. Was the study question or objective clearly stated?",
+        "2. Was the study population clearly and fully described, including a case definition?",
+        "3. Were the cases consecutive?",
+        "4. Were the subjects comparable?",
+        "5. Was the intervention clearly described?",
+        "6. Were the outcome measures clearly defined, valid, reliable, and implemented consistently across all study participants?",
+        "7. Was the length of follow-up adequate?",
+        "8. Were the statistical methods well-described?",
+        "9. Were the results well-described?"
+      ]
+    }
+  }
+}
